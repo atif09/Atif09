@@ -1,6 +1,6 @@
 <h1 align="center">Mohammed Atif</h1>
 
-## Trophies 
+# Trophies :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atif09" alt="atif09" /></a> </p>
 
 
