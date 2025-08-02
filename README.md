@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atif09" alt="atif09" /></a> </p>
 
 
-<h3 align="left">Socials :</h3>
+# Socials :
 <p align="left">
 <a href="https://linkedin.com/in/mmohammed atif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmohammed atif" height="30" width="40" /></a>
 
