@@ -1,13 +1,13 @@
 
 ## Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdatif.contact@gmail.com)
 
 # 💻 Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,python,js,html,css,figma" />
   </a>
 </p>
 
