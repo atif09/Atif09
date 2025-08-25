@@ -4,7 +4,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:mohdatif.contact@gmail.com)
 
-# I love coding with: 
+# I love using: 
 
 <p align="center">
   <a href="https://skillicons.dev">
