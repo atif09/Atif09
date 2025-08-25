@@ -1,7 +1,7 @@
 
 ## Connect:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdatif.contact@gmail.com)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:mohdatif.contact@gmail.com)
 
 # 💻 Tech Stack:
 
