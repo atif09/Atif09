@@ -3,7 +3,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:mohdatif.contact@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atif09&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=atif09&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atif09&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
