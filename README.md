@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E17C4&width=435&lines=Hello+%F0%9F%A4%9D+I'm+Atif)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=7600C2&width=435&lines=Hello+%F0%9F%A4%9D+I'm+Atif)](https://git.io/typing-svg)
 
 # Connect:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
