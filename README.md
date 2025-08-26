@@ -45,6 +45,7 @@
 </p>
 
 <h3>Certifications:</h3>
+<small>→</small>
 <a href="https://www.coursera.org/account/accomplishments/specialization/F9TGP8TJPBIJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" 
    target="_blank" rel="noopener" 
    style="display: inline-block; margin-top: 10px; margin-left: 0;">
