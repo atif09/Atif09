@@ -40,6 +40,6 @@
 
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?atif09=ryo-ma&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=atif09&theme=aura&no-frame=false&no-bg=true&margin-w=15)
 
 
