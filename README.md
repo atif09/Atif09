@@ -39,7 +39,4 @@
 </details>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atif09&theme=aura&no-frame=false&no-bg=true&margin-w=15)
-
 
