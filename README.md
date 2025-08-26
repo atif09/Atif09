@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# Programming Languages: 
+# Languages: 
 
 <p align="center">
   <a href="https://skillicons.dev">
