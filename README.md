@@ -40,11 +40,6 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atif09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=atif09&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[trophy](https://github-profile-trophy.vercel.app/?atif09=ryo-ma&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 
 
