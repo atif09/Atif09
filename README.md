@@ -44,9 +44,8 @@
 </p>
 
 <h3>Certifications</h3>
- 
-<a href="https://www.coursera.org/account/accomplishments/specialization/F9TGP8TJPBIJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" title="Meta Certificate">
-</a>
+
+[<img src="https://www.imghippo.com/i/yJh5520HpI.png" alt="Meta Certificate" width="80"/>](https://www.coursera.org/account/accomplishments/specialization/F9TGP8TJPBIJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)
 
 
 <details>
