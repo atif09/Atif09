@@ -18,7 +18,7 @@
 
 <h3>I make things with:</h3> 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,html,css,git,figma" />
   </a>
@@ -27,7 +27,7 @@
 
 <h3>Languages:</h3> 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp" />
   </a>
@@ -36,7 +36,7 @@
 
 <h3>Experimented with:</h3> 
 
-<p align="center">
+<p>
   <img src="https://i.ibb.co/v4T2jtQp/custom.png" width="48" height="48" alt="Custom Icon"/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,blender" />
