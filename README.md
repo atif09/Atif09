@@ -29,7 +29,7 @@
 </p>
 
 
-## Languages: 
+<h3>Languages:</h3> 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@
 </p>
 
 
-## Experimented with: 
+<h3>Experimented with:</h3> 
 
 <p align="center">
   <a href="https://skillicons.dev">
