@@ -12,6 +12,15 @@
   </a>
 </p>
 
+# Programming Languages: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  </a>
+</p>
+
+
 # Experimented with: 
 
 <p align="center">
