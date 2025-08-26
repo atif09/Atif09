@@ -48,7 +48,7 @@
 <a href="https://www.coursera.org/account/accomplishments/specialization/F9TGP8TJPBIJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" 
    target="_blank" rel="noopener" 
    style="display: inline-block; margin-top: 10px; margin-left: 0;">
-  <img src="https://i.imghippo.com/files/yJh5520HpI.png" 
+  <img src="https://additional-lime-xnrznlxmrw.edgeone.app/pngimg.com%20-%20meta_PNG5.png" 
        alt="Meta Front-End Certificate" 
        width="100" 
        style="border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
