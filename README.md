@@ -6,15 +6,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:mohdatif.contact@gmail.com)
 
-<h3>Certifications:</h3>
-<a href="https://www.coursera.org/account/accomplishments/specialization/F9TGP8TJPBIJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" 
-   target="_blank" rel="noopener" 
-   style="display: inline-block; margin-top: 10px; margin-left: 0;">
-  <img src="https://i.imghippo.com/files/yJh5520HpI.png" 
-       alt="Meta Front-End Certificate" 
-       width="100" 
-       style="border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-</a>
 
  
 <h1 align="center" style="font-size: 60px;">
@@ -52,6 +43,16 @@
     <img src="https://skillicons.dev/icons?i=ruby,blender" />
   </a>
 </p>
+
+<h3>Certifications:</h3>
+<a href="https://www.coursera.org/account/accomplishments/specialization/F9TGP8TJPBIJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" 
+   target="_blank" rel="noopener" 
+   style="display: inline-block; margin-top: 10px; margin-left: 0;">
+  <img src="https://i.imghippo.com/files/yJh5520HpI.png" 
+       alt="Meta Front-End Certificate" 
+       width="100" 
+       style="border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+</a>
 
 
 <details>
