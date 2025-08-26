@@ -6,6 +6,11 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:mohdatif.contact@gmail.com)
 
+<h2 align="center">
+  Tech Section 
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="tech gif" height="40">
+</h2>
+
 
 ## I make things with: 
 
