@@ -12,6 +12,14 @@
   </a>
 </p>
 
+# Exposure / Misc
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,puppet,ruby" />
+  </a>
+</p>
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atif09&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=atif09&theme=blue_navy&hide_border=false)<br/>
