@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=7600C2&width=435&lines=Hello+%F0%9F%A4%9D+I'm+Atif)](https://git.io/typing-svg)
 
-# Connect:
+## Connect:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-atif-113b95353/)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:mohdatif.contact@gmail.com)
 
-# I make things with: 
+## I make things with: 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# Languages: 
+## Languages: 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
 </p>
 
 
-# Experimented with: 
+## Experimented with: 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atif09&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=atif09&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atif09&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
