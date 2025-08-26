@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# Exposure / Misc
+# Experimented with: 
 
 <p align="center">
   <a href="https://skillicons.dev">
