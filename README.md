@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=puppet,ruby" />
+    <img src="https://skillicons.dev/icons?i=puppet,ruby,blender" />
   </a>
 </p>
 
