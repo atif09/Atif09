@@ -33,11 +33,13 @@
   </a>
 </p>
 
+
 <h3>Experimented with:</h3> 
 
 <p align="center">
-  <a <img src="https://skillicons.dev/icons?i=puppet,ruby,blender" />
-     href="https://skillicons.dev">
+  <img src="https://i.ibb.co/v4T2jtQp/custom.png" width="48" height="48" alt="Custom Icon"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=puppet,ruby,blender" />
   </a>
 </p>
 
