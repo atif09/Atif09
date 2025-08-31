@@ -21,7 +21,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,git,figma" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,go,git,figma" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 <p>
   <img src="https://i.ibb.co/v4T2jtQp/custom.png" width="48" height="48" alt="Custom Icon"/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,blender" />
+    <img src="https://skillicons.dev/icons?i=ruby,blender,autocad" />
   </a>
 </p>
 
