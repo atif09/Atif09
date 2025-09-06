@@ -21,8 +21,9 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,git,figma" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,flask,docker,aws,sqlite,git,figma" />
   </a>
+  <img src="https://i.postimg.cc/yd7s2MKm/sqla.png" height="48" width="48" style="border-radius: 4px;" />
 </p>
 
 
