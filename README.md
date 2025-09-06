@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
   </a>
 </p>
 
