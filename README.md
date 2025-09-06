@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-47314053-9ae6-4d32-968a-bdf321ac9282.pdf" target="_blank">
-  <img src="https://i.postimg.cc/ZRtJjk9F/udemy.webp" alt="Back-End Certificate" width="100" />
+  <img src="https://i.postimg.cc/ZRtJjk9F/udemy.webp" alt="Back-End Certificate" width="105" />
 </a>
 
 
