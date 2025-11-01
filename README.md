@@ -25,7 +25,7 @@
 
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>Stats</summary>
   </br>
 
 ![](https://github-readme-stats.vercel.app/api?username=atif09&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
