@@ -8,10 +8,7 @@
   
   Tech Section
 
-
-
-
-<h3>I make things with:</h3> 
+ 
 
 <p>
   <a href="https://skillicons.dev">
@@ -30,14 +27,6 @@
 </p>
 
 
-<h3>Experimented with:</h3> 
-
-<p>
-  <img src="https://i.ibb.co/v4T2jtQp/custom.png" width="48" height="48" alt="Custom Icon"/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,blender,autocad" />
-  </a>
-</p>
 
 <h3>Certifications:</h3>
 <a href="https://www.coursera.org/account/accomplishments/specialization/F9TGP8TJPBIJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" target="_blank">
