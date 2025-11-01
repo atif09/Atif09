@@ -6,7 +6,7 @@
  
 <h1 align="center" style="font-size: 60px;">
   
-  Tech Section
+  Tech Stack
 
  
 
