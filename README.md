@@ -4,7 +4,7 @@
 
 
  
-## Tech Stack
+## Tech Stack:
 
 <p>
   <a href="https://skillicons.dev">
@@ -13,9 +13,7 @@
   <img src="https://i.postimg.cc/yd7s2MKm/sqla.png" height="48" width="48" style="border-radius: 4px;" />
 </p>
 
-
-<h3>Languages:</h3> 
-
+## Languages:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp" />
