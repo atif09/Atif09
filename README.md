@@ -12,5 +12,6 @@
   </a>
   <img src="https://i.postimg.cc/7LfYhkC1/sqlalchemy2.png" height="48" width="48" style="border-radius: 4px;" />
   <img src="https://i.postimg.cc/dVJYkKf8/pytest-1.png" height="48" width="48" style="border-radius: 4px;" />
+  <img src="https://i.postimg.cc/zf6trkFk/celery-(1).png" height="52" width="48" style="border-radius: 4px;" />
   
 </p>
