@@ -18,3 +18,8 @@ src="https://i.postimg.cc/YCzB9sSM/webhooks-logo-png-seeklogo-274079.png" height
   <img src="https://i.postimg.cc/zf6trkFk/celery-(1).png" height="52" width="48" style="border-radius: 4px;" />
   <img src="https://i.postimg.cc/dVJYkKf8/pytest-1.png" height="48" width="48" style="border-radius: 4px;" />
 </p>
+
+## Currently Learning
+- GitHub Actions
+- Pytorch, Tensorflow, NumPy, Pandas,Matplotlib
+- Statistics & Probability
