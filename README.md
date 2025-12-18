@@ -21,5 +21,5 @@ src="https://i.postimg.cc/YCzB9sSM/webhooks-logo-png-seeklogo-274079.png" height
 
 ## Currently Learning
 - GitHub Actions
-- Pytorch, Tensorflow, NumPy, Pandas,Matplotlib
+- Pytorch, Tensorflow, NumPy, Pandas, Matplotlib
 - Statistics & Probability
